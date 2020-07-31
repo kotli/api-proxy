@@ -1,3 +1,5 @@
+# This should live here
+.env.sample
 # Logs
 logs
 *.log
@@ -71,3 +73,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# some setup thoughts
+SELF.md
